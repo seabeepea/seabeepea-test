@@ -4,5 +4,5 @@
 void
 hello()
 {
-  printf ("Yo, dexter.\n");
+  printf ("Yo, Dexter.\n");
 }
